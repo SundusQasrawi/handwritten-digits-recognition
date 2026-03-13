@@ -62,7 +62,7 @@ Experiments were conducted to study the effects of architecture design, regulari
 - **Recall:** 97.29%
 - **F1-score:** 97.29%
 
-The results show that a lightweight CNN architecture can achieve high performance on handwritten Arabic digit recognition. :contentReference[oaicite:0]{index=0}
+The results show that a lightweight CNN architecture can achieve high performance on handwritten Arabic digit recognition.
 
 
 ## Technologies
