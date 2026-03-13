@@ -67,5 +67,5 @@ The results show that a lightweight CNN architecture can achieve high performanc
 
 ## Technologies
 
-Python, TensorFlow/PyTorch, NumPy, OpenCV, Matplotlib, Jupyter Notebook
+Python, TensorFlow, NumPy, OpenCV, Matplotlib, Jupyter Notebook
 
